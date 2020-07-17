@@ -22,6 +22,7 @@ In the ZLOrigin, proceed to the "My Games" tab:
 ![Qiko0uK.png](https://i.imgur.com/Qiko0uK.png)
 
 From here you can download any game that you want (Sims 2/3/4 for example), and the ZLOrigin's installer will take care of that.
+
 ![bcd7MfQ.png](https://i.imgur.com/bcd7MfQ.png)
 
 Sometimes when starting a download the installer may show an errors with unknown error codes - skip through of all them, your download should continue anyway
