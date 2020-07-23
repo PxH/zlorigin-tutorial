@@ -3,6 +3,7 @@
     <tr>
         <td align="center"><b>English 🌐</b></td>
         <td align="center"><a href="https://github.com/PxH/zlorigin-tutorial/blob/master/README-PL.md">Polish 🇵🇱</a></td>
+        <td align="center"><a href="https://github.com/PxH/zlorigin-tutorial/blob/master/README-AR.md">Arabic</a></td>
     </tr>
 </table>
 
