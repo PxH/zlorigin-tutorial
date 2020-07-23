@@ -1,7 +1,11 @@
 **This guide is also available in other languages:**
-|||
-|-----|-----|
-|**English 🌐**|[Polish 🇵🇱](https://github.com/PxH/zlorigin-tutorial/blob/master/README-PL.md)|
+<table align="center">
+    <tr>
+        <td align="center"><b>English 🌐</b></td>
+        <td align="center"><a href="https://github.com/PxH/zlorigin-tutorial/blob/master/README-PL.md">Polish 🇵🇱</td>
+    </tr>
+</table>
+
 # ZLOrigin Guide
 ### 0. Prerequisities
 - .NET Framework 4.5.2 (usually preinstalled on Windows 10)
