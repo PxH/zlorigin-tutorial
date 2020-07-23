@@ -2,7 +2,7 @@
 <table align="center">
     <tr>
         <td align="center"><b>English 🌐</b></td>
-        <td align="center"><a href="https://github.com/PxH/zlorigin-tutorial/blob/master/README-PL.md">Polish 🇵🇱</td>
+        <td align="center"><a href="https://github.com/PxH/zlorigin-tutorial/blob/master/README-PL.md">Polish 🇵🇱</a></td>
     </tr>
 </table>
 

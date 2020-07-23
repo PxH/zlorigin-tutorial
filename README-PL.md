@@ -1,7 +1,10 @@
 **Poradnik jest dostępny również w następujących językach:**
-|||
-|-----|-----|
-|**English 🌐**|[Polish 🇵🇱](https://github.com/PxH/zlorigin-tutorial/blob/master/README-PL.md)|
+<table align="center">
+    <tr>
+        <td align="center"><a href="https://github.com/PxH/zlorigin-tutorial/blob/master/README.md">Angielski 🌐</a></td>
+        <td align="center"><a href="https://github.com/PxH/zlorigin-tutorial/blob/master/README-PL.md"><b>Polski 🇵🇱</b></a></td>
+    </tr>
+</table>
 
 # Poardnik ZLOrigin
 ### 0. Wymagania
