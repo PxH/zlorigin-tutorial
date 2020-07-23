@@ -15,7 +15,7 @@ Fill in your account data that you created in the first step.
 
 ![ZClient Login](https://i.imgur.com/etansGn.png)
 
-Leave the app running it background. It will serve as a proxy that will let you access the modded Origin. You need it every time you want to play.
+**Leave the app running it background. It is important to have it open when using any of the ZLO Games.** It will serve as a proxy that will let you access the modded Origin. You need it every time you want to play.
 
 ### 3. Installing ZLOrigin
 Download the [ZLOrigin Installer](https://zloemu.net/files/ZLOriginSetup.zip) then unpack and install it. It may be incompatible with the normal Origin client if it's already installed - try installing ZLOrigin to a different partition than the original Origin for it to work. (not tested, it's better to just not have the Origin client installed)
