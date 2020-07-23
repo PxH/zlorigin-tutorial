@@ -1,7 +1,7 @@
 **This guide is also available in other languages:**
 <table align="center">
     <tr>
-        <td align="center"><b>English 🌐</b></td>
+        <td align="center"><a href="https://github.com/PxH/zlorigin-tutorial/blob/master/README.md"><b>English 🌐</b></a></td>
         <td align="center"><a href="https://github.com/PxH/zlorigin-tutorial/blob/master/README-PL.md">Polish 🇵🇱</a></td>
         <td align="center"><a href="https://github.com/PxH/zlorigin-tutorial/blob/master/README-AR.md">Arabic</a></td>
     </tr>
