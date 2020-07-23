@@ -1,3 +1,7 @@
+**This guide is also available in other languages:**
+|||
+|-----|-----|
+|**English 🌐**|[Polish 🇵🇱](https://github.com/PxH/zlorigin-tutorial/blob/master/README-PL.md)|
 # ZLOrigin Guide
 ### 0. Prerequisities
 - .NET Framework 4.5.2 (usually preinstalled on Windows 10)
